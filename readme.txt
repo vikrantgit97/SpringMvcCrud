@@ -1,5 +1,6 @@
 This project is regarding CRUD Spring MVC architecture using hibernate, jsp used with jstl library for frontend
-give db credential in WEB-INF folder servlet-context.xml
+
+give db credential in WEB-INF folder servlet-context.xml and use this project for reference.
 
 firstly create table in db
  create table person ( id int primary key auto_increment,name varchar(35),country varchar(35));
